@@ -1,5 +1,5 @@
 # Shipping Calculator
- I've created a portfolio that is designed well via tailwind css to introduce myself.
+ I've created a basic web page where you can find a shipping calculator demo.
 
 ## Built With
 
