@@ -1,0 +1,27 @@
+.shipping-date {
+  color: #2b2e39;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* Shipping Info */
+.shipping-info {
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+  color: var(--gray);
+  margin-left: 0.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .shipping-info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 36px;
+  }
+
+  .shipping-date {
+    font-size: 38.7px;
+  }
+}
